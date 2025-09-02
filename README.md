@@ -11,7 +11,7 @@
 <ins>what is regiscout ratings?</ins>　[who are you two?]
 </h3>
 
-regiscout ratings is a frequently-updated page maintained by two partners:
+regiscout ratings is a frequently-updated page maintained by two partners:\
 🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 
 > these are obviously not formerly and/or currently claimed regiscout names. we understand\
