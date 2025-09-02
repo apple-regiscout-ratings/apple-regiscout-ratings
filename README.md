@@ -2,7 +2,8 @@
 <div align="center">
 <img src="https://i.postimg.cc/gkGdq95k/logo.png" width="400">
 
-<b> [regiscout ratings atabook](https://regiscout-ratings.atabook.org)　 　[information + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[regiscout ratings rentry](https://rentry.co/regiscout-ratings) </b>
+<b> [regiscout ratings atabook](https://regiscout-ratings.atabook.org)　 　[information + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[regiscout ratings rentry](https://rentry.co/regiscout-ratings) </b>\
+regiment owners, please contact us on discord @regiscout-ratings for friendly rating discussion!
 
 > regiscout ratings was directly inspired by the [pt regiment rater](rentry.co/ptregimentrater)! viewers are highly encouraged\
 > to check out their page to see additional alternative takes on all group ratings. as always, use\
