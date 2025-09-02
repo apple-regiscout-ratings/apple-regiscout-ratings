@@ -12,7 +12,7 @@
 </h3>
 
 regiscout ratings is a frequently-updated page maintained by two partners:\
-🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/apple-regiscout-ratings)].
+🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 <br/>
 <br/>
 > these are obviously not formerly and/or currently claimed regiscout names. we only do this\
@@ -28,7 +28,7 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 <br/>
 <br/>
 
-**you are <ins>currently visiting</ins>:　regiscout rater <ins>apple</ins>　[left]**\
+**you are <ins>currently visiting</ins>:　regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$　[left]**\
 [🍎]　  she/her/hers　 feminine terms　 adult [18+]</sup>
 <br/>
 <br/>
