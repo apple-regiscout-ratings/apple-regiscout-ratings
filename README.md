@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.postimg.cc/gkGdq95k/logo.png" width="400">
+<img src="https://i.postimg.cc/RZDvfKFL/logo.png" width="400">
 
 <b> [atabook](https://regiscout-ratings.atabook.org)　 　[strawpage](https://regiscout-ratings.straw.page/)　 　[info + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[ratings rentry](https://rentry.co/regiscout-ratings)\
 →　 [apple's github](https://github.com/apple-regiscout-ratings)　 　[clover's github](https://github.com/clover-regiscout-ratings) </b>
@@ -20,7 +20,7 @@ to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing sh
 
 
 regiscout ratings is a frequently-updated page maintained by two individuals:\
- 🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#b34c36}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#837540}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)].
+ 🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#b34c36}\large\mathsf{apple}}}$** [[github](https://github.com/apple-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#4e6f4f}\large\mathsf{clover}}}$** [[github](https://github.com/clover-regiscout-ratings)].
 
 > these are obviously not formerly and/or currently claimed regiscout names. we understand\
 > "anonymity" only goes so far on ponytown, but we kindly ask that in-game friends/mutuals\
