@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/gkGdq95k/logo.png" width="400">
 
 <b> [regiscout ratings atabook](https://regiscout-ratings.atabook.org)　 　[information + faq rentry](https://rentry.co/regiscout-ratings-info)　 　[regiscout ratings rentry](https://rentry.co/regiscout-ratings)\
-🍎  [apple's github](https://github.com/clover-regiscout-ratings) → you're here!　 　🍀  [clover's github](https://github.com/clover-regiscout-ratings) </b>
+[apple's github](https://github.com/clover-regiscout-ratings) → you're here!　 　[clover's github](https://github.com/clover-regiscout-ratings) </b>
 
 
 <ins>**regiment owners**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/rating inquiries.\
