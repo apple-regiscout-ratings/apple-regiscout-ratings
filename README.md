@@ -26,7 +26,7 @@ regiscout ratings is a frequently-updated page maintained by two individuals:\
 > "anonymity" only goes so far on ponytown, but we kindly ask that in-game friends/mutuals\
 > respect our personal boundaries by **avoiding casual interaction** during rating. thanks!　♡
 
-<img src="https://i.postimg.cc/L86sjmV2/ponies.png" width="345">
+<img src="https://i.postimg.cc/L86sjmV2/ponies.png" width="450">
 
 **currently visiting:　regiscout rater <ins>apple</ins>　[left]**\
 [🍎]　  she/her/hers　 feminine terms　 adult [18+]</sup>
