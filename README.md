@@ -15,10 +15,9 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 <br/>
 <br/>
-> these are obviously not formerly and/or currently claimed regiscout names. we only do\
-> this to fully separate ourselves and limit any potential biases from the regiscout ratings\
-> project; both of us understand that "anonymity" only goes so far on the internet, *especially*\
-> on ponytown as a platform specifically.
+> these are obviously not formerly and/or currently claimed regiscout names. we only do this\
+> to fully separate ourselves and limit any potential biases from the regiscout ratings project;\
+> both of us understand that "anonymity" only goes so far on the internet, *especially* on pt.
 > <br/>
 > <br/>
 > with that being said, we kindly ask that all in-game friends/mutuals please respect our\
