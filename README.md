@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="475">
 
-<b> [regiscout shout-outs](https://regiscout-ratings.atabook.org)　 　[questions/feedback](https://regiscout-ratings.straw.page/)　 　[info + faq page](https://rentry.co/regiscout-ratings-info)　 　[ratings page](https://rentry.co/regiscout-ratings)\
+<b> [ask us questions](https://regiscout-ratings.atabook.org)　 　[how are we doing?](https://regiscout-ratings.straw.page/)　 　[info + faq page](https://rentry.co/regiscout-ratings-info)　 　[ratings page](https://rentry.co/regiscout-ratings)\
 **<ins>regiscout ratings</ins> managed by**　 →　[rater 🍎](https://github.com/apple-regiscout-ratings)　　[rater 🍀](https://github.com/clover-regiscout-ratings) </b>
 
 ### · ──────── · 𖥸 · ──────── ·
