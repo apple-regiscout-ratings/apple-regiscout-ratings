@@ -11,16 +11,23 @@
 <ins>what is regiscout ratings?</ins>　[who are you two?]
 </h3>
 
+
 regiscout ratings is a frequently-updated page maintained by two partners:\
 🍎  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#af4c43}\large\mathsf{apple}}}$** [[github](https://github.com/clover-regiscout-ratings)] &  🍀  **${{\large\mathsf{regiscout}}}$ ${{\large\mathsf{rater}}}$ ${{\color{#5c7c59}\large\mathsf{clover}}}$** [[github](https://github.com/apple-regiscout-ratings)].
 
-> these are obviously not formerly and/or currently claimed regiscout names. we understand\
-> "anonymity" only goes so far on ponytown, but we kindly ask that in-game friends/mutuals\
-> respect our personal boundaries by **avoiding casual interaction** during rating. thanks!　♡
+> these are obviously not formerly and/or currently claimed regiscout names. we only do\
+> this to fully separate our personal involvements and limit any potential biases from the\
+> regiscout ratings project; both of us understand that "anonymity" only goes so far on the\
+> internet, *especially* on ponytown as a platform.
+
+> with that being said, we kindly ask that all in-game friends/mutuals please respect our\
+> space and refrain from casual interaction during rating-related activities. thank you in\
+> advance for respecting our personal boundaries!　♡
+
 
 <img src="https://i.postimg.cc/L86sjmV2/ponies.png" width="375">
 
-**currently visiting:　regiscout rater <ins>apple</ins>　[left]**\
+**you are <ins>currently visiting</ins>:　regiscout rater <ins>apple</ins>　[left]**\
 [🍎]　  she/her/hers　 feminine terms　 adult [18+]</sup>
 
 
