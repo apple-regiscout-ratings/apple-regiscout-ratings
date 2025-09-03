@@ -19,7 +19,7 @@ regiscout ratings is a frequently-updated project maintained by two partners:\
 <br/>
 <br/>
 
-**you are <ins>currently visiting</ins>:　regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$　[left]**\
+### **currently visiting:　regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$**
 [🍎]　  she/her/hers　 feminine terms　 adult [21-]\
 preferred observation type:　<ins>spectator</ins>
 <br/>
