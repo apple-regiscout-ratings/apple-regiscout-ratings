@@ -20,8 +20,10 @@ regiscout ratings is a frequently-updated project maintained by two partners:\
 <br/>
 
 **you are <ins>currently visiting</ins>:　regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$　[left]**\
-[🍎]　  she/her/hers　 feminine terms　 adult [18+]</sup>
+[🍎]　  she/her/hers　 feminine terms　 adult [21-]\
+preferred observation type:　<ins>spectator</ins>
 <br/>
+
 |  |
 | ------------- | 
 | <blockquote> our rater names are [obviously] not formerly or currently claimed regiscout names.<br/> this is done <ins>**only**</ins> to limit potential bias during ratings, and keeps our personal connections<br/> separate from the project. our anonymity is <ins>**not**</ins> about maintaining "secrecy"—it is merely<br/> the simplest way to ensure we *always* put fairness first.<br/><br/> we kindly ask in-game friends and mutuals to please respect the project—and our personal<br/>boundaries—by avoiding casual interaction during regiscout ratings. thanks in advance! ♡ </blockquote> |
