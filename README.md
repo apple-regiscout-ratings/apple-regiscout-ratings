@@ -22,7 +22,7 @@ regiscout ratings is a frequently-updated [project](https://rentry.co/regiscout-
 
 ### **currently visiting:　regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$**
 [🍎]　  she/her/hers　 feminine terms　 adult [21-]\
-primary observation type:　<ins>spectator</ins>
+preferred observation type:　<ins>spectator</ins>
 <br/>
 
 |  |
