@@ -11,7 +11,7 @@
 <ins>what is regiscout ratings?</ins>　[who are you two?]
 </h3>
 
-[regiscout ratings](https://rentry.co/regiscout-ratings) is a frequently-updated project maintained by two partners:\
+regiscout ratings is a frequently-updated [project](https://rentry.co/regiscout-ratings) maintained by two partners:\
 🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [she/her] &  🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him]. 
 > #### click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!
 > this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br>
