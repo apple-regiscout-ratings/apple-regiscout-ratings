@@ -25,7 +25,7 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 <br/>
 |  |
 | ------------- | 
-| <blockquote>our rater names are obviously not formerly and/or currently claimed regiscout names.<br/> this is intentionally done <ins>**only**</ins> to fully separate ourselves during and limit any potential<br/> biases from the regiscout ratings project. our "anonymity" is <ins>**not**</ins> about maintaining<br/> secrecy, it is simply a practical measure to ensure what we do is focused on fairness.<br/><br/>we kindly ask all in-game friends and mutuals to please respect the project's integrity—<br/>and our personal boundaries—by avoiding casual interaction during regiscout rating.<br/> thanks in advance for valuing our personal space!　♡</blockquote>   |
+| <blockquote> our rater names are [obviously] not formerly or currently claimed regiscout names.<br/> this is done <ins>**only**</ins> to limit potential bias during ratings, and keeps our personal connections<br/> separate from the project. our anonymity is <ins>**not**</ins> about maintaining "secrecy"—it is merely<br/> the simplest way to ensure we *always* put fairness first.<br/><br/> we kindly ask in-game friends and mutuals to please respect the project—and our personal<br/>boundaries—by avoiding casual interaction during regiscout ratings. thanks in advance! ♡ </blockquote> |
 
 ### · ──────── · 𖥸 · ──────── ·
 
