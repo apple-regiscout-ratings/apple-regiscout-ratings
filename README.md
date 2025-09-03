@@ -13,9 +13,9 @@
 
 regiscout ratings is a frequently-updated [project](https://rentry.co/regiscout-ratings) maintained by two partners:\
 🍎  **regiscout rater ${{\color{#af4c43}\large\mathsf{apple}}}$** [she/her] &  🍀  **regiscout rater ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him]. 
-> click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!\
-> <sub> this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br></sub>
-> <sup> should it become one, all work must cease <ins>**immediately**</ins>, as per our pledge. </sup>
+> #### click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!
+> this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br>
+> should it become one, all work must cease <ins>**immediately**</ins>, as per our pledge.
 <img src="https://i.postimg.cc/rFNzf8gD/ponies.png" width="375">
 <br/>
 <br/>
