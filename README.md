@@ -24,7 +24,7 @@ regiscout ratings is a frequently-updated page maintained by two partners:\
 > space and refrain from casual interaction during rating-related activities. thank you in\
 > advance for respecting our personal boundaries!　♡
 <br/>
-<img src="https://i.postimg.cc/L86sjmV2/ponies.png" width="375">
+<img src="https://i.postimg.cc/rFNzf8gD/ponies.png" width="375">
 <br/>
 <br/>
 
