@@ -3,8 +3,8 @@
 <br/>
 <br/>
 
-<b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-reviews-info)　 　[regiscout review list](https://rentry.co/regiscout-reviews)\
-[regiscout reviewer 🍎](https://github.com/regiscout-reviews-apple)　　　[regiscout reviewer 🍀](https://github.com/regiscout-reviews-clover) </b>
+<b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + faq](https://rentry.co/regiscout-reviews-info)　 　[review list](https://rentry.co/regiscout-reviews)\
+[reviewer 🍎](https://github.com/regiscout-reviews-apple)　　　[reviewer 🍀](https://github.com/regiscout-reviews-clover) </b>
 ### · ──────── · 𖥸 · ──────── ·
 
 
