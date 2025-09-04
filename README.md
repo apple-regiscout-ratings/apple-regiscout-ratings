@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://i.postimg.cc/k4rTS9pw/logo.png" width="475">
+<img src="https://i.postimg.cc/65BG9Tph/image.png" width="475">
+<br/>
+<br/>
 
 <b> [q&a + feedback](https://regiscout-reviews.straw.page)　 　[info + frequently asked](https://rentry.co/regiscout-reviews-info)　 　[regiscout review list](https://rentry.co/regiscout-reviews)\
 **<ins>regiscout reviews</ins> managed by**　 →　[reviewer 🍎](https://github.com/regiscout-reviews-apple)　　[reviewer 🍀](https://github.com/regiscout-reviews-clover) </b>
