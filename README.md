@@ -14,7 +14,7 @@
 
 regiscout reviews is a frequently-updated [project](https://rentry.co/regiscout-reviews) maintained by a pair of\
 alien critters: 🍎  **reviewer ${{\color{#af4c43}\large\mathsf{apple}}}$** [she/her] &  🍀  **reviewer ${{\color{#5c7c59}\large\mathsf{clover}}}$** [he/him]. 
-> #### click [here](https://rentry.co/regiscout-ratings-info) for more information on our project's purpose!
+> #### click [here](https://rentry.co/regiscout-reviews-info) for more information on our project's purpose!
 > this project <ins>**is not intended**</ins> to function as a public rankings list/"leaderboard."</br>
 > should it become one, all work must cease <ins>**immediately**</ins>, as per our pledge.
 <img src="https://i.postimg.cc/Sx9bQBf7/ponies.png" width="375">
@@ -51,7 +51,7 @@ preferred observation type:　<ins>spectator</ins>
 <ins>before you head out...</ins>　[contact info & inspiration credits]
 </h3>
 
-<ins>**regiscout staff**</ins>, please contact our discord [@regiscout_ratings](https://discord.com/users/1412353928355516516) for friendly discussion/review inquiries.\
+<ins>**regiscout staff**</ins>, please contact our discord [@regiscout_reviews](https://discord.com/users/1412353928355516516) for friendly discussion/review inquiries.\
 to abide by [pt's tos](https://pony.town/termsofservice.html) of not allowing shared accounts, our dual-owned profile is not linked in-game.
 
 > regiscout reviews was directly inspired by the [pt regiment reviewer](https://rentry.co/ptregimentrater)! viewers are highly encouraged\
